@@ -76,7 +76,7 @@
   }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 768px) {
   .app__specialMenu_menu_img {
     width: 100%;
   }
