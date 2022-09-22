@@ -58,24 +58,24 @@ const cocktails = [
 
 const awards = [
   {
-    imgUrl: images.award02,
-    title: 'Bib Gourmond',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    Url: images.award02,
+    title: 'Bib Gourmand',
+    subtitle: '“Giải thưởng Bib Gourmand” là một vinh dự được các thành viên hội đồng bình chọn của Michelin trao tặng cho doanh nghiệp ngành ẩm thực, đại diện cho việc công nhận các nhà hàng này cung cấp những món ăn ngon tuyệt, đáng giá với số tiền thực khách chi trả. (2022)',
   },
   {
-    imgUrl: images.award01,
+    Url: images.award01,
     title: 'Rising Star',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    subtitle: 'Ngôi sao đang lên trong làng ẩm thực (2021)',
   },
   {
-    imgUrl: images.award05,
+    Url: images.award05,
     title: 'AA Hospitality',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    subtitle: 'Hàng năm AA công nhận các khách sạn, nhà hàng, quán rượu, B & B và khu cắm trại tốt nhất ... Đọc tin tức mới nhất và giải thưởng từ AA Hotel & Hospitality Services. (2021)',
   },
   {
-    imgUrl: images.award03,
+    Url: images.award03,
     title: 'Outstanding Chef',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    subtitle: 'Đầu bếp của chúng tôi có vinh dự nhận giải thưởng Đầu bếp xuất sắc năm 2022',
   },
 ];
 
